@@ -49,7 +49,7 @@ def main():
                 Carregue o arquivo no formato .ftr ou .csv contendo os dados para a predição. <br>
                 Dados **DEMO** podem ser encontrados no repositório do projeto. <br>
                 Repositório:
-                [credito-demo](https://github.com)
+                [credito-demo](https://github.com/0ace-jk/pycaret_project/tree/main/demo)
                 """,
                 unsafe_allow_html=True
                 )
@@ -90,4 +90,5 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
     

@@ -32,4 +32,4 @@ This project utilizes the following technologies and libraries:
 
 ## Author
 
-[Your Name]
+Antonio Junior
